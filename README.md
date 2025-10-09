@@ -1,7 +1,7 @@
 <div align="center">
-<h1>SkylineRAG</h1>
+<h1>RAg-Sketch</h1>
 
-Cost-Effective Retrieval-Augmented Generation for Long-Context Question Answering
+Cost-Effective Retrieval-Augmented Generation Sketch for Long-Context Question Answering
 
 </div>
 
