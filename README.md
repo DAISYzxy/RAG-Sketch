@@ -1,12 +1,13 @@
 <div align="center">
 <h1>RAG-Sketch</h1>
-
-Cost-Effective Retrieval-Augmented Generation Sketch for Long-Context Question Answering
-
+Skyline Retrieval meets Set-Cover Chunk Merging: A Cost-Effective RAG-Sketch for Long-Context LLM QA
 </div>
 
+<img src="overview.png" width="1000px">
 
 
+
+# Contents
 <!-- - [Introduction](#Introduction) -->
 - [Installation](#Installation)
 - [Test](#Test)
@@ -26,3 +27,4 @@ To download the test data, open the [Google Drive link](https://drive.google.com
 
 # Test
 Test the performance of RAG-Sketch, download the generated answers for each task and set and place it under the RAG-Sketch folder. Then open and run Evaluation.ipynb. Please note that several files require API calls to Large Language Models (LLMs); ensure the necessary setup is in place before running the code.
+
